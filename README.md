@@ -4,4 +4,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 A small project used to count down the New Year's Eve with the aim of initially approaching nextjs.
 
 ## Producion
-Visit [new-year-countdown-lovat]
+Visit [new-year-countdown-lovat]:(https://new-year-countdown-lovat.vercel.app/)
